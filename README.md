@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackyYen&show_icons=True&line_height=40" />
+<img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackyYen&show_icons=True&line_height=30" />
 
 ### I'm Chen-Yen Chang
 
