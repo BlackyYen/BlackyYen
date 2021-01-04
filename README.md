@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=BlackyYen&show_icons=True＆theme = radical" />
+<img height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=BlackyYen&show_icons=True＆theme = radical" />
 
 ### I'm Chen-Yen Chang
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🏆 2020第四屆創創AIoT競賽 最佳技術獎  
 - 🏆 2020旺宏金矽獎半導體設計應用大賽 優勝獎  
 
-<img src="https://github-profile-trophy.vercel.app/?username=BlackyYen&theme=flat&column=7" alt="logo" height="160" align="center">
+<img height="200" align="center" src="https://github-profile-trophy.vercel.app/?username=BlackyYen&theme=radical&column=7">
