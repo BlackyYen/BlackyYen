@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🏆 2020第四屆創創AIoT競賽 最佳技術獎  
 - 🏆 2020旺宏金矽獎半導體設計應用大賽 優勝獎  
 
-<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=BlackyYen&column=7&margin-w=15" />
+<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=BlackyYen&column=7&margin-w=5" />
