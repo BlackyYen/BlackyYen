@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Chen-Yen Chang
 
-- 🎓 國立臺北科技大學(National Taipei University of Technology)
+- 🎓 國立臺北科技大學 (National Taipei University of Technology)
 - 🏆 2020全臺大專校院智慧創新暨跨域整合創作競賽 數位永續科技組 第一名
 - 🏆 2020第四屆創創AIoT競賽 最佳技術獎  
 - 🏆 2020旺宏金矽獎半導體設計應用大賽 優勝獎  
