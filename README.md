@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 - 🏅 AIdea: 香水百合價量預測 20/361 (5.5%)
 - 🏆 2020全臺大專校院智慧創新暨跨域整合創作競賽 數位永續科技組 第一名
-- 🏆 2020旺宏金矽獎半導體設計應用大賽 優勝獎
 
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=BlackyYen&column=7&margin-w=5" />
