@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### I'm Chen-Yen Chang
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
-- 🏅 Kaggle: Cassava Leaf Disease Classification 469/3900 (12.0%)
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 - 🏅 AIdea: 香水百合價量預測 20/361 (5.5%)
 
